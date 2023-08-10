@@ -38,8 +38,10 @@ $ git push -uf origin main
 
 ##### Make sure all commits visible in log
 
-git log
+```console
+$ git log
+```
 
 # Projects goals
 
-This project was written as a study project for DevOps rebrainme.com course [Rebrainme](https://rebrainme.com/)
+This project was written as a study project for DevOps rebrainme.com course [Rebrainme.com](https://rebrainme.com/)
